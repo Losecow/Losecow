@@ -5,7 +5,7 @@
 [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinwoo02)](https://www.acmicpc.net/user/jinwoo02)   
 
 
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+--!>
