@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinwoo02)](https://github.com/mazassumnida/mazassumnida)
+프로필](http://jinwoo02.wtf/api/mini/generate_badge?boj=jinwoo02)]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Losecow&show_icons=true&theme=radical)
 
