@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Losecow&show_icons=true&theme=radical)
 
+[![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=sam1783)](https://www.acmicpc.net/user/jinwoo02)   
+
 
 
 Here are some ideas to get you started:
