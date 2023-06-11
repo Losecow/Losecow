@@ -30,10 +30,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
---!>
-
 https://wepplication.github.io/tools/charMap/#asciiArt
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Losecow&show_icons=true&theme=radical)
+--!>
