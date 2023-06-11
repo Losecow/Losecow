@@ -14,7 +14,7 @@
 ｀ヽ｀、ヽヽ｀｀、ヽ｀、ヽヽ ዽ ヽ
 
 
-પ દાન નવપ?   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinwoo02)](https://solved.ac/losecow)
+પ દાન નવપ?   
 
 [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinwoo02)](https://www.acmicpc.net/user/jinwoo02)   
 
@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 https://wepplication.github.io/tools/charMap/#asciiArt
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinwoo02)](https://solved.ac/losecow)
 --!>
