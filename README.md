@@ -16,8 +16,6 @@
 
 પ દાન નવપ?   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinwoo02)](https://solved.ac/losecow)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Losecow&show_icons=true&theme=radical)
-
 [![백준 랭킹](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinwoo02)](https://www.acmicpc.net/user/jinwoo02)   
 
 
@@ -36,3 +34,6 @@ Here are some ideas to get you started:
 --!>
 
 https://wepplication.github.io/tools/charMap/#asciiArt
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Losecow&show_icons=true&theme=radical)
