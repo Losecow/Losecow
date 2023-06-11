@@ -14,8 +14,7 @@
 ｀ヽ｀、ヽヽ｀｀、ヽ｀、ヽヽ ዽ ヽ
 
 
-પ દાન નવપ?  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinwoo02)](https://solved.ac/losecow)
+પ દાન નવપ?   [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jinwoo02)](https://solved.ac/losecow)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Losecow&show_icons=true&theme=radical)
 
@@ -35,3 +34,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 --!>
+
+https://wepplication.github.io/tools/charMap/#asciiArt
