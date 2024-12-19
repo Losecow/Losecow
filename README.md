@@ -24,8 +24,6 @@
                o(  )_-\
                  `"""` `
 
-This ASCII pic can be found at
-https://asciiart.website/index.php?art=holiday/christmas/trees
 
 
 
